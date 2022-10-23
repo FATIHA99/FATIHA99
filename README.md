@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatiha99" alt="fatiha99" /></a> </p>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **node JS**
 
 - 💬 Ask me about **anything**
 
